@@ -41,6 +41,8 @@ Make sure before you start, you are scrolled all the way to the top of the page.
 7. Username Copy Button: Hover the mouse over the "Copy" button to the right of the Username. Press the ENTER key.
 8. Password Copy Button: Hover the mouse over the "Copy" button to the right of the Password. Press the ENTER key.
 
+![Inputs](https://raw.githubusercontent.com/lherlant/firefox_password_exporter/master/password_screen.png)
+
 Finally you will be given an ETA and asked if you want to continue or not. Press ENTER to continue. Once you start, you will not be able to use the computer until it's completed. You will see the mouse move back and forth on the screen, selecting and copying fields. The websites and usernames will print in the terminal window as it goes.
 
 Do not touch the mouse or keyboard during this time or it will miss passwords and copy irrelevant data. It's also hard to stop once it has started since it has control over your mouse. On Windows, doing ctrl+alt+delete halts execution.
